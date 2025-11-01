@@ -7,5 +7,6 @@
 </head>
 <body>
     <h1>Home</h1>
+    <a href="/welcome">welcome page</a>
 </body>
 </html>
